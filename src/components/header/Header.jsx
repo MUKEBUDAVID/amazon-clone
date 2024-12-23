@@ -91,6 +91,7 @@ const Header = () => {
         <Link to="/">
           <div className="headerHover">
             <img className="w-24 mt-2" src={logo} alt="logo" />
+            Mukebu
           </div>
         </Link>
 
